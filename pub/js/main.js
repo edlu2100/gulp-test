@@ -1,0 +1,1 @@
+console.log("hello from one.js"),console.log("hello from two.js");
